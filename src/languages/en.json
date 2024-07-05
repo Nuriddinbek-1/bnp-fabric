@@ -1,0 +1,80 @@
+{
+    "navbar": {
+        "home": "Home",
+        "collection": "Collection",
+        "about": "About",
+        "contact": "Contact",
+        "slogan1": "Bukhara",
+        "slogan2": "Natural",
+        "slogan3": "PRODU"
+    },
+    "services": {
+        "shippingTitle": "Free shipping",
+        "shippingInfo": "Free shipping on all orders",
+        "guaranteeTitle": "Return Guarantee",
+        "guaranteeInfo": "30 day money back",
+        "supportTitle": "Online support 24/7",
+        "supportInfo": "Technical support 24/7",
+        "paymentTitle": "Secure payment",
+        "paymentInfo": "All payment methods accepted"
+    },
+    "sofa": {
+        "percent": "100%",
+        "p1": "Material quality",
+        "p2": "Bukhara Natural Product",
+        "p3": "has been a natural product company for worldwide use for several years",
+        "btn": "Collection"
+    },
+    "winter": {
+        "title": "WINTER COLLECTION",
+        "subtitle": "Bukhara Natural Product"
+    },
+    "summer": {
+        "title": "SUMMER COLLECTION",
+        "subtitle": "Bukhara Natural Product"
+    },
+    "autumn": {
+        "title": "AUTUMN COLLECTION",
+        "subtitle": "Bukhara Natural Product"
+    },
+    "news": {
+        "title": "NEWS",
+        "subtitle": "Bukhara Natural Product",
+        "card1": {
+            "date": "10/05/2019 by admin",
+            "title": "How to choose the perfect gadgets",
+            "info": "When the beautiful valley fills me with steam and the meridian sun beats down on the hill..."
+        },
+        "card2": {
+            "date": "10/05/2019 by admin",
+            "title": "How to choose the perfect gadgets",
+            "info": "When the beautiful valley fills my surroundings with steam and the meridian sun beats overhead..."
+        },
+        "card3": {
+            "date": "10/05/2019 by admin",
+            "title": "How to choose the perfect gadgets",
+            "info": "When the beautiful valley fills my surroundings with steam and the meridian sun beats overhead..."
+        }
+    },
+    "footer": {
+        "card1": {
+            "title": "“Bukhara Natural Product” ko'p yillardan buyon butun dunyoda foydalanish uchun paxta matolari ishlab chiqaradigan kompaniya hisoblanadi"
+        },
+        "card2": {
+            "title": "Our Company",
+            "text1": "Home",
+            "text2": "Collection",
+            "text3": "About",
+            "text4": "News"
+        },
+        "card3": {
+            "title": "Contact Centers",
+            "text1": "Buxoro, st. Alpomish 80",
+            "text2": "bnpuz@bk.ru",
+            "text3": "info@bnpfabric.com",
+            "text4": "+998 93 383 75 85",
+            "text5": "+998 93 960 78 00"
+        },
+        "bottom": "© 2024 BUKHORA NATURAL PRODUCT LLC. All rights reserved."
+    }
+}

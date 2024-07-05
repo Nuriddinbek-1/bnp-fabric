@@ -1,0 +1,80 @@
+{
+    "navbar": {
+        "home": "Asosiy",
+        "collection": "To'plamlar",
+        "about": "Batafsil",
+        "contact": "Aloqa",
+        "slogan1": "Bukhara",
+        "slogan2": "Natural",
+        "slogan3": "PRODU"
+    },
+    "services": {
+        "shippingTitle": "Bepul yetkazish",
+        "shippingInfo": "Barcha xizmatlar uchun bepul yetkazish",
+        "guaranteeTitle": "Qaytarish kafolati",
+        "guaranteeInfo": "30 kun ichida pulingiz qaytariladi",
+        "supportTitle": "24/7 onlayn yordam",
+        "supportInfo": "24/7 texnik ko'rik",
+        "paymentTitle": "Maxfiy to'lov",
+        "paymentInfo": "Barcha to'lov turlari qabul qilinadi"
+    },
+    "sofa": {
+        "percent": "100%",
+        "p1": "Sifatli mahsulot",
+        "p2": "Bukhara Natural Product",
+        "p3": "bir necha yillardan beri butun dunyo bo'ylab foydalanish uchun tabiiy mahsulot ishlab chiqaruvchi kompaniya bo'lib kelmoqda",
+        "btn": "To'plamlar"
+    },
+    "winter": {
+        "title": "QISHKI TO'PLAM",
+        "subtitle": "Bukhara Natural Product"
+    },
+    "summer": {
+        "title": "YOZGI TO'PLAM",
+        "subtitle": "Bukhara Natural Product"
+    },
+    "autumn": {
+        "title": "KUZGI TO'PLAM",
+        "subtitle": "Bukhara Natural Product"
+    },
+    "news": {
+        "title": "YANGILIKLAR",
+        "subtitle": "Bukhara Natural Product",
+        "card1": {
+            "date": "10/05/2019 admin tomonidan",
+            "title": "Qanday qilib mukammal gadjetlarni tanlash mumkin",
+            "info": "Go'zal vodiy atrofimni bug' bilan to'ldirganda va meridian quyoshi tepalikka urilganda ..."
+        },
+        "card2": {
+            "date": "10/05/2019 admin tomonidan",
+            "title": "Qanday qilib mukammal gadjetlarni tanlash mumkin",
+            "info": "Qachonki, go'zal vodiy atrofimni bug' bilan to'ldirganda va meridian quyoshi tepaga urilganda ..."
+        },
+        "card3": {
+            "date": "10/05/2019 admin tomonidan",
+            "title": "Qanday qilib mukammal gadjetlarni tanlash mumkin",
+            "info": "Qachonki, go'zal vodiy atrofimni bug' bilan to'ldirganda va meridian quyoshi tepaga urilganda ..."
+        }
+    },
+    "footer": {
+        "card1": {
+            "title": "“Bukhara Natural Product” ko'p yillardan buyon butun dunyoda foydalanish uchun paxta matolari ishlab chiqaradigan kompaniya hisoblanadi"
+        },
+        "card2": {
+            "title": "Bizning Kompaniya",
+            "text1": "Asosiy",
+            "text2": "To'plamlar",
+            "text3": "Batafsil",
+            "text4": "Yangiliklar"
+        },
+        "card3": {
+            "title": "Aloqa Markazlari",
+            "text1": "Buxoro ko'cha, Alpomish 80",
+            "text2": "bnpuz@bk.ru",
+            "text3": "info@bnpfabric.com",
+            "text4": "+998 93 383 75 85",
+            "text5": "+998 93 960 78 00"
+        },
+        "bottom": "© 2024 MChJ 'BUXORA NATURAL PRODUCT'. Barcha huquqlar himoyalangan."
+    }
+}

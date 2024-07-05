@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    transition: 0.5s;
+}
+
+.container {
+    width: 95%;
+    max-width: 1440px;
+    margin: 10px auto;
+}
+
+nav:nth-child(1) {
+    margin: 0 20px;
+}
